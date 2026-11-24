@@ -144,5 +144,5 @@ The results demonstrate successful execution of foundational Linux administratio
 
 ## **Author**
 
-- **GitHub:** [GitHub Profile](https://github.com/your-username?utm_source=chatgpt.com)
+- **GitHub:** [GitHub Profile](https://github.com/sarahayenigbara?utm_source=chatgpt.com)
 - **Area of Interest:** Linux Administration, Networking, Cybersecurity, and Governance, Risk & Compliance (GRC).
